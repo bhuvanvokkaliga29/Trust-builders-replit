@@ -17,6 +17,7 @@
 | Deployed model | [Click](https://trust-builders-replit-1-sanchara-vyuha.replit.app)|working model deployment by mock data
 
 ---
+view my achievements : https://www.linkedin.com/in/bhuvan-gowda-h-k-4ba8b5318
 
 ## 💡 Hackathon Problem Statement Alignment
 
